@@ -9,4 +9,5 @@
 | September 24 | [TorchTitan](https://chatgpt.com/share/68d4de7a-ef04-8013-8f6c-df53ce4f3d79) | [ECLIP](https://chatgpt.com/share/68d4e3dc-0ebc-8013-9c39-efe27a532195) |
 | September 29 | [Triton](https://chatgpt.com/share/68db387e-c320-8013-b30c-e16f4a5928e3) | [Geak](https://chatgpt.com/share/68db5210-4828-8013-8754-71b958241265) | 
 | October 1 | [OpFusion](https://chatgpt.com/share/6914f5d3-fc04-8013-8542-cded6cf413fb) | [MemSafeXLA](https://chatgpt.com/share/6914f827-8034-8013-acd9-ff948573ecf3) |
+| October 20 | [MLIR](https://chatgpt.com/share/69164f17-188c-8013-bb4a-af5d2098d617) | [Glow](https://chatgpt.com/share/69164fbf-356c-8013-af9e-d268cbbb45ee) |
 
