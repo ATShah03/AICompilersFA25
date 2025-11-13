@@ -10,4 +10,5 @@
 | September 29 | [Triton](https://chatgpt.com/share/68db387e-c320-8013-b30c-e16f4a5928e3) | [Geak](https://chatgpt.com/share/68db5210-4828-8013-8754-71b958241265) | 
 | October 1 | [OpFusion](https://chatgpt.com/share/6914f5d3-fc04-8013-8542-cded6cf413fb) | [MemSafeXLA](https://chatgpt.com/share/6914f827-8034-8013-acd9-ff948573ecf3) |
 | October 20 | [MLIR](https://chatgpt.com/share/69164f17-188c-8013-bb4a-af5d2098d617) | [Glow](https://chatgpt.com/share/69164fbf-356c-8013-af9e-d268cbbb45ee) |
-| October 27 | [EffPagedAttn](https://chatgpt.com/share/6916544f-6a30-8013-a00e-139489015c7d) | [EffLLMServe](https://chatgpt.com/share/6916590c-0b7c-8013-9269-03df4beaaaab) |
+| October 27 | [EffPagedAttn](https://chatgpt.com/share/6916544f-6a30-8013-a00e-139489015c7d) | [EffLLMServ](https://chatgpt.com/share/6916590c-0b7c-8013-9269-03df4beaaaab) |
+| October 29 | [NvidiaAmpere](https://chatgpt.com/share/69165bcb-585c-8013-bce2-24be5ee464e9) | [AMDsDTW](https://chatgpt.com/share/69166020-3120-8013-8389-abadd3ce445d) |
