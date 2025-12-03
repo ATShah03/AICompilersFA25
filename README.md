@@ -12,3 +12,4 @@
 | October 20 | [MLIR](https://chatgpt.com/share/69164f17-188c-8013-bb4a-af5d2098d617) | [Glow](https://chatgpt.com/share/69164fbf-356c-8013-af9e-d268cbbb45ee) |
 | October 27 | [EffPagedAttn](https://chatgpt.com/share/6916544f-6a30-8013-a00e-139489015c7d) | [EffLLMServ](https://chatgpt.com/share/6916590c-0b7c-8013-9269-03df4beaaaab) |
 | October 29 | [NvidiaAmpere](https://chatgpt.com/share/69165bcb-585c-8013-bce2-24be5ee464e9) | [AMDsDTW](https://chatgpt.com/share/69166020-3120-8013-8389-abadd3ce445d) |
+| November 12 | [TPUs](https://chatgpt.com/share/692ff54a-ed88-8013-a888-a206c6af4262) | [MTIA](https://chatgpt.com/share/692ff71e-3d54-8013-bd46-38006a08dbf3)
